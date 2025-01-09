@@ -22,3 +22,7 @@ Want to make your own account to post some randomized text on Bluesky at hourly 
   12. Under `Select type of time based trigger`, select `Minutes timer`.
   13. Under `Select minute interval`, select `Every minute`.
   14. Press `Save`.
+
+## Acknowledgments
+
+Thank you to St3ph-fr for [the initial code snippets that I adapted for this project](https://github.com/St3ph-fr/apps-script-for-bluesky-social), and David Klion for [transcribing _The Room_](https://medium.com/@DavidKlion/full-transcript-of-the-room-341e4286db8e).
